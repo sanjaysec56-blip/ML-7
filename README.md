@@ -14,6 +14,11 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Program:
 ```
+/*
+Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Developed by: SANJAY E
+RegisterNumber:  25018983 (212225040371)
+*/
 # Import Libraries
 import pandas as pd
 import numpy as np
